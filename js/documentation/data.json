@@ -1,0 +1,44 @@
+{
+    "project": {},
+    "files": {
+        "HelloWorld.doc.js": {
+            "name": "HelloWorld.doc.js",
+            "modules": {},
+            "classes": {
+                "HelloWorld": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "HelloWorld": {
+            "name": "HelloWorld",
+            "shortname": "HelloWorld",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "HelloWorld.doc.js",
+            "line": 1,
+            "description": "A HelloWorld Class to any-pourpose",
+            "static": 1
+        }
+    },
+    "classitems": [
+        {
+            "file": "HelloWorld.doc.js",
+            "line": 8,
+            "description": "Returns the \"Hello World\" string",
+            "itemtype": "method",
+            "name": "HelloWorld",
+            "return": {
+                "description": "\"Hello World\" string"
+            },
+            "class": "HelloWorld"
+        }
+    ],
+    "warnings": []
+}
